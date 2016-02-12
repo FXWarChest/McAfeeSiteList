@@ -19,6 +19,17 @@ Usage
 Example usage:
 
     $ python sitelist.py -f SiteList.xml
+    ___________           .__              ____  ___
+    \_   _____/_ __  _____|__| ____   ____ \   \/  /
+     |    __)|  |  \/  ___/  |/  _ \ /    \ \     / 
+     |     \ |  |  /\___ \|  (  <_> )   |  \/     \ 
+     \___  / |____//____  >__|\____/|___|  /___/\  \
+         \/             \/               \/      \_/ 
+    -------------------[warchest]-------------------
+    McAfee SiteList.XML Decryptor Version 1.0
+    <david.rude@fusionx.com>
+    http://github.com/fxwarchest
+    
     
     HttpSite
     =============================================
